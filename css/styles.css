@@ -1,9 +1,10 @@
 .imgleft{
   float: left;
   width: 20%;
-  border: 2px;
-  border-style: ridge;
+  border: 4px;
+  border-style: solid;
   border-color: #ACE1F2;
+  margin-right: 15px;
 }
 
 .jumbotron{
@@ -26,7 +27,7 @@
   border-color: #ACE1F2;
 }
 
-.butext{
+.buText{
   text-decoration: underline;
   font-weight: bold;
 }
@@ -42,4 +43,18 @@
   text-decoration: underline;
   font-weight: bold;
   font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+}
+
+.bigText{
+  font-size: 7em;
+  font-family: serif;
+  line-height: 15px;
+}
+
+p .bigText{
+  margin-left: 30px;
+}
+
+.topBorder{
+  margin-top: 50px;
 }
