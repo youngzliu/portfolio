@@ -68,3 +68,7 @@ p .bigText{
 .col-sm-6 img{
   width: 100%;
 }
+
+.justifyRight{
+  margin-left: 45%;
+}
