@@ -1,0 +1,32 @@
+.imgleft{
+  float: left;
+  width: 20%;
+  border: 2px;
+  border-style: ridge;
+  border-color: #ACE1F2;
+}
+
+.jumbotron{
+  background-color: #ACE1F2;
+}
+
+.centerAlign{
+  text-align: center;
+}
+
+.centerList{
+  display: inline-block;
+  text-align: left;
+}
+
+.rightSideBorder{
+  width: 75%;
+  float: right;
+  border-style: ridge;
+  border-color: #ACE1F2;
+}
+
+.header{
+  text-decoration: underline;
+  font-weight: bold;
+}
